@@ -153,3 +153,7 @@ curl -X GET http://localhost:8080/api/facturas/impuesto/BRASIL
 3. Agrega el nuevo país al enum `Pais`.
 4. ¡Listo! El sistema detectará automáticamente la nueva estrategia.
 
+### Algunos videos explicativos sobre el Patrón Strategy
+- [⚔ Patrón Strategy en Spring Boot. Usando los recursos de Spring para hacer algo lindo.](https://youtu.be/14Fxj5f0iaI?si=Drjztlz-uagVMJbe)
+- [Patrón "Strategy" o Estrategia (GoF)](https://youtu.be/R_kWWKt8HBQ?si=woBLyTa4Dql0AVfa)
+- [#JavaCodeSessions 21: Strategy en Java](https://youtu.be/C0uAP-gVUbo?si=dE6QHcvqoNPT9OJo)
